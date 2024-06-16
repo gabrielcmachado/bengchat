@@ -267,7 +267,7 @@ export default {
     }),
     inboxes() {
       if (this.isOngoingType) {
-        return this.$store.getters['inboxes/getWebsiteInboxes'];
+        return this.$store.getters['inboxes/getInboxes'];
       }
       return this.$store.getters['inboxes/getSMSInboxes'];
     },
