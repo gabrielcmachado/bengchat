@@ -266,10 +266,11 @@ export default {
       audienceList: 'labels/getLabels',
     }),
     inboxes() {
-      if (this.isOngoingType) {
-        return this.$store.getters['inboxes/getInboxes'];
-      }
-      return this.$store.getters['inboxes/getSMSInboxes'];
+      // if (this.isOngoingType) {
+      //   return this.$store.getters['inboxes/getWebsiteInboxes'];
+      // }
+      // return this.$store.getters['inboxes/getSMSInboxes'];
+      return this.$store.getters['inboxes/getInboxes'];
     },
     sendersAndBotList() {
       return [
