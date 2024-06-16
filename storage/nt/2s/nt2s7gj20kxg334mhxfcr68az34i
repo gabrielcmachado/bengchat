@@ -1,0 +1,5 @@
+name,email,identifier,phone_number,ip_address,errors
+Eva  Washington,,,+5,51226E+12,,Phone number should be in e164 format
+Evelin  ,,,+5,52198E+12,,Phone number should be in e164 format
+Glaucio  ,,,+5,585E+12,,Phone number should be in e164 format
+Valquireia  ,,,+55219875770496:::5521987577049,,Phone number should be in e164 format
