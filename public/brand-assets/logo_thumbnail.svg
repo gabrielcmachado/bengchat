@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
-    <title>woot-log</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="woot-log" fill-rule="nonzero">
-            <circle id="Oval" fill="#47A7F6" cx="256" cy="256" r="256"></circle>
-            <path d="M362.807947,368.807947 L244.122956,368.807947 C178.699407,368.807947 125.456954,315.561812 125.456954,250.12177 C125.456954,184.703089 178.699407,131.456954 244.124143,131.456954 C309.565494,131.456954 362.807947,184.703089 362.807947,250.12177 L362.807947,368.807947 Z" id="Fill-1" stroke="#FFFFFF" stroke-width="6" fill="#FFFFFF"></path>
-        </g>
-    </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="135.567mm" height="135.567mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 13557 13557"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#2205A7}
+    .fil1 {fill:#95FF00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Sem_x0020_título-1.cdr">
+   <circle class="fil0" cx="6778" cy="6778" r="6773"/>
+   <path class="fil1" d="M2603 4836c0,402 124,368 736,731 830,493 1545,1242 2114,2013 574,778 1037,1894 1235,2892 108,542 16,921 592,921 365,0 418,-337 530,-615 748,-1949 1486,-3897 2221,-5850 68,-249 -171,-540 -504,-550l-6466 0c-230,0 -458,228 -458,458z"/>
+  </g>
+ </g>
 </svg>
