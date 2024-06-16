@@ -43,6 +43,46 @@ const alertTones = computed(() => [
     value: 'bell',
     label: 'Bell',
   },
+  {
+    value: 'astronauta',
+    label: 'Astronauta',
+  },
+  {
+    value: 'dogru',
+    label: 'Dogru',
+  },
+  {
+    value: 'long_music_notification',
+    label: 'Notificação Musical Longa',
+  },
+  {
+    value: 'long_notification',
+    label: 'Notificação Longa',
+  },
+  {
+    value: 'message',
+    label: 'Mensagem',
+  },
+  {
+    value: 'new_notification',
+    label: 'Notificação Nova',
+  },
+  {
+    value: 'notification',
+    label: 'Notificação',
+  },
+  {
+    value: 'ouch',
+    label: 'Outch',
+  },
+  {
+    value: 'phone',
+    label: 'Telefone',
+  },
+  {
+    value: 'tilintar',
+    label: 'Tilintar',
+  }
 ]);
 
 const emit = defineEmits(['change']);
