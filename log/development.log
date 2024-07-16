@@ -93,3 +93,18 @@ Enqueued ActionCableBroadcastJob (Job ID: 0f3a6e86-8559-42d1-8253-e50f35e1da3b) 
 Enqueued EventDispatcherJob (Job ID: 58e1ace8-d605-4682-9c92-ba9b46b4b86f) to Sidekiq(critical) with arguments: "assignee.changed", Fri, 07 Jun 2024 17:05:47.901599281 UTC +00:00, {:conversation=>#<GlobalID:0x00007fbad2b05ba0 @uri=#<URI::GID gid://chatwoot/Conversation/1>>, :notifiable_assignee_change=>true, :changed_attributes=>{"id"=>[nil, 1], "account_id"=>[nil, 1], "inbox_id"=>[nil, 1], "assignee_id"=>[nil, 1], "created_at"=>[nil, Fri, 07 Jun 2024 17:05:46.408709642 UTC +00:00], "updated_at"=>[nil, Fri, 07 Jun 2024 17:05:46.408709642 UTC +00:00], "contact_id"=>[nil, 1], "contact_inbox_id"=>[nil, 1], "waiting_since"=>[nil, Fri, 07 Jun 2024 17:05:46.408709000 UTC +00:00]}, :performed_by=>nil}
 [dotenv] Loaded [33m.env[0m
 [dotenv] Loaded [33m.env[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Loaded [33m.env[0m
+Started GET "/cable" for ::1 at 2024-07-16 13:14:36 -0300
+Started GET "/cable" [WebSocket] for ::1 at 2024-07-16 13:14:36 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+RoomChannel is streaming from 4SmJiBMig7DQ5NJzdSKY1hSm
+RoomChannel#update_presence
+Started GET "/api/v1/accounts/1/cache_keys" for ::1 at 2024-07-16 13:15:36 -0300
+Processing by Api::V1::AccountsController#cache_keys as JSON
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 190ms (Views: 0.3ms | ActiveRecord: 8.1ms | Allocations: 26660)
+
+
